@@ -145,3 +145,219 @@ Stable2.生成对应场景图(如“雨天 格，短发少女，蓝色校服Diff
 '作为投资组合构建专家。投资组合规模：5万美元，风险偏好：保守/温和/激进，时间：指定年限。
 
 构建多元化投资组合以最大化风险调整回报。包含：按行业资产配置、持仓规模理由、预期回报、再平衡规则、下行保护'
+
+
+这是一份复古的发明专利文件，其风格仿照19世纪末美国专利局的申请文件。页面上包含精确的技术图纸，并附有编号标注（图1、图2、图3），分别展示了正面图、侧视图和分解图。钢笔墨水手写的注释描述了机械结构。纸张呈象牙色，泛黄，带有霉斑和轻微的折痕。角落处有官方的压印印章和红色蜡封。底部有发明人亲笔签名的姓名和日期。整份文件给人一种尘封已久的珍贵感——权威、历史感十足，又略带神秘气息。
+文件描述的对象是手枪。
+
+-----
+风格基调：敦煌壁画岩彩美学 (Dunhuang Mural & Rock Color Aesthetic)
+
+肤质：大唐盛世红润瓷肌 (Radiant Tang-style Porcelain Skin)，在琥珀烛光下呈现细腻微观细节，眼睫湿润有力。
+发丝：双环望仙髻 (Double-loop Wang-xian Bun)，缀以金丝累丝发簪 (Gold Filigree Hairpins)，重现盛唐皇家雍容。
+光影：石窟神性丁达尔光 (Divine God Rays in Cavern) 穿透幽暗。强烈的琥珀色侧面烛光 (Amber Candlelight) 与飘带上的勾边轮廓光 (Backlit Ribbons) 形成极致反差。
+场景：古老石窟深处，经年风化的千佛壁画 (Weathered Murals)，空气中涌动着金沙尘埃 (Golden Sand Dust)。
+
+调色统一：大唐极繁配色方案 (Opulent Gold & Lapis Lazuli)，金色与青金石蓝交相辉映。高对比度的暖色阴影渲染出史诗级的宗教神圣感。
+硬约束：金色三叶草花钿 (Golden Clover Huadian)、岩彩画颗粒质感 (Rock Color Texture)、飘带的动态美学。
+
+----
+风格基调：《影》式水墨电影美学 (Shadow-play Aesthetic)
+
+肤质：冷白瓷肌 (Cold-toned Porcelain Skin)，保留细微毛孔 (Micro-pores) 与湿润虹膜 (Moist Iris) 细节，呈现如玉般的温润通透。 
+发丝：高耸堕马髻 (High Slanted Duo-ma Bun)，乌木簪 (Ebony Hairpin) 固发，发丝分明，在烟岚中呈现锐利的轮廓。 
+光影：伦勃朗三角光 (Rembrandt Lighting) 刻画侧脸。侧向冷光配合金色轮廓光 (Golden Rim Light)，将主体从背景中剥离。 
+场景：极简禅意空间，环绕巨大的半透明宣纸屏风，点缀湿墨笔触 (Wet Ink Brushstrokes)。
+
+调色统一：青墨色调 (Teal and Ink Scheme)，低饱和 (Desaturated) 艺术处理。融合水墨画的“五色焦浓重”与现代高级时装摄影的纯净感。 
+
+硬约束：眉间红点 (Cinnabar Dot)、宋式层叠绢纱质感、严禁出现现代背景。
+------
+人像_角色设定卡_横版3x2_左2大右6头部表情
+
+用途：上传参考图后，生成“角色设定卡/Turnaround Sheet”。
+
+版式：左侧两张大图（全身正视+全身侧视），右侧 6 张小图（正面/背面/左右45°/开心/生气）。
+约束：禁止任何可读文字/标签；统一棚拍白底与曝光；签名为右侧竖排 voxcat。
+
+提示词（中文版）
+
+3:2 横版角色设定卡/转面板（turnaround sheet / model sheet），纯白干净棚拍背景。以参考图人物为唯一身份锚点：脸型轮廓（下颌线、颧骨、下巴形状）、眼型、眉形、鼻梁与鼻翼、嘴唇厚薄与嘴角形状、年龄气质必须严格一致；发际线与发型尽量一致。只允许同一个角色，禁止换脸、禁止五官漂移。
+
+版式（单张合成图，干净网格，统一光影与色彩）：
+左侧（约60%宽度）：两张大图上下排列：
+1）全身正视站姿（中性站姿，手臂自然下垂）
+2）全身90°侧视站姿（中性站姿）
+
+右侧（约40%宽度）：2×3 网格六张头部小图：
+1）头部正面（neutral）
+2）头部背面（back of head，用于发型与头型一致性）
+3）头部左45°（neutral）
+4）头部右45°（neutral）
+5）表情特写：开心/愉悦（happy，笑但克制不夸张）
+6）表情特写：生气/愤怒（angry，眉眼紧张但不夸张变形）
+
+质感与画质：高端写实棚拍/电影级人像质感，眼睛清晰锐利对焦，真实皮肤微观质感（毛孔与细纹，不磨皮不塑料），全图各分区曝光与色彩一致，8K细节，轻胶片颗粒，超干净白底，脚下干净柔和投影。
+
+强约束：画面内不允许任何可读文字（不要 FRONT/SIDE 等标签），不要字幕、不要logo、不要UI叠层、不要水印块；不要卡通二次元；不要多余人物；不要畸形手指/多肢体/脸崩；六张小图必须是同一张脸同一发际线。
+
+签名：右侧边缘添加极小竖排签名“voxcat”，超细字重，像艺术家署名（不是水印），不抢主体。
+
+------------------------------
+漫画风格
+容貌和身材都完美的东方女性，尽量暴露。
+胸部中等，臀部微翘，腹部必须暴露，有马甲线。
+画面分成上下左右四格，分别为同一人物的正面，背面，向左侧身，向右侧身。
+--图一飘窗晨光---------------
+【Character】: 19 year old Asian top tier beauty, sweet and alluring pure desire vibe, deep amber eyes with a watery glint, refined and delicate nose, flawless translucent porcelain skin, slightly messy but silky raven black hime cut long hair catching the light, youthful innocence mixed with an unconscious captivating charm, high value delicate oriental bone structure. 【Accessories】: A simple thin silver collarbone chain catching a glint of light. 【Clothing】: Oversized soft cream white knitted cardigan casually slipping off one shoulder, layered over a thin ribbed icy blue fitted camisole outlining soft feminine curves, white pleated micro skirt, sheer white calf high socks, classic low top canvas sneakers in pure white. 【Action Pose】: Sitting on the edge of a sunlit bay window, leaning slightly forward with one hand softly tucking a stray hair behind her ear, legs casually angled, gazing directly at the lens with an effortless intimate girlfriend POV snapshot feel. 【Facial Expression】: A gentle shy yet slightly teasing smile, relaxed affectionate and natural mood. 【Environment】: Cozy light filled bedroom interior with a sunlit bay window, sheer white curtains softly glowing, gentle morning sunlight casting beautiful dappled shadows, warm and inviting atmosphere. 【Style】: Girlfriend perspective candid photo, realistic smartphone casual photo feel, natural morning sunlight with soft rim lighting on hair and shoulders, bright and clean Japanese photography aesthetic, subtle blooming highlights, appealing visual tension, ar 4:7. 【Texture】: Ultra detailed delicate skin with a natural flushed glow, soft and fuzzy knitwear texture contrasting with ribbed cotton, realistic hair physics with stray strands, advanced cinematic soft lighting, high end casual portrait aesthetics, photorealistic details. 【Composition】: Eye level medium full shot, character centered, dynamic framing utilizing the window light, inviting shallow depth of field blurring the background room, ar 4:7. 
+Negative Prompt: ugly, deformed, mutated, disfigured, bad anatomy, extra limbs, extra fingers, missing limbs, fused fingers, poorly drawn hands, poorly drawn feet, poorly drawn face, bad proportions, gross proportions, malformed limbs, mutated hands, cloned face, duplicate, out of frame, cropped, low resolution, blurry, jpeg artifacts, grainy, noisy, overexposed, underexposed, plastic skin, doll like, uncanny valley, cartoon, anime, illustration, sketch, painting, 3d render, low quality, worst quality, watermark, text, signature, logo, error, extra legs, extra arms, long neck, asymmetrical face, cross eyed, lazy eye, inconsistent clothing, wrong hair style, mismatched shoes, wrong sneaker color, deformed face features, unbalanced proportions, overly sexualized, heavy makeup, adult look Optional enhancement tags: photorealistic, realistic casual photo, smartphone snapshot vibe, natural daylight, subtle film grain, masterpiece, best quality, ultra detailed, sharp focus, shallow depth of field, consistent fashion details, anchored outfit hair and facial features.
+
+【角色】：19岁的亚洲顶级美女，散发着甜美迷人且纯欲交织的气息；深邃的琥珀色眼眸泛着水润的光泽，鼻梁精致秀气，皮肤 flawless（无瑕）如半透明的瓷器；一头乌黑丝滑的姬发式（Hime cut）长发略显凌乱却质感极佳，在光线下熠熠生辉；青春的纯真与不经意间流露的迷人气质完美融合，拥有高价值的精致东方骨相。
+【配饰】：一条简约纤细的银色锁骨链，捕捉着一抹微光。
+【服装】：一件宽松的柔奶油白色针织开衫，随意地滑落至单侧肩头；内搭一件薄款罗纹冰蓝色修身吊带背心，勾勒出柔和的女性曲线；下身穿着白色百褶超短裙，搭配透薄的白色小腿袜（及膝下），脚踩一双纯白色的经典低帮帆布鞋。
+【动作姿态】：坐在阳光洒满的飘窗边缘，身体微微前倾，一只手轻柔地将一缕碎发别到耳后；双腿随意摆放，目光直视镜头，营造出一种 effortless（毫不费力）的亲密女友视角（POV）快照感。
+【面部表情】：温柔羞涩中带着一丝挑逗的微笑，神情放松、充满爱意且自然。
+【环境】：温馨明亮、充满阳光的卧室内部，设有采光极佳的飘窗；轻薄的白色窗帘散发着柔和的光晕；清晨的暖阳投下美丽的斑驳树影，整体氛围温暖而诱人。
+【风格】：女友视角的抓拍照片，具有逼真的智能手机随手拍质感；自然的晨光在头发和肩膀上形成柔和的轮廓光；明亮洁净的日式摄影美学，带有微妙的光晕高光，视觉张力引人入胜；宽高比 4:7。
+【质感】：超精细的肌肤细节，透着自然的红润光泽；柔软毛绒的针织品质感与罗纹棉质形成对比；逼真的头发物理效果，可见飘散的碎发；高级的电影级柔光照明；高端休闲人像美学，照片级真实细节。
+【构图】：视平线高度的中全景镜头，角色居中；利用窗户光线进行动态构图；诱人的浅景深效果使背景房间虚化；宽高比 4:7。
+负面提示词 (Negative Prompt)：
+丑陋、畸形、变异、毁容、解剖结构错误、多余肢体、多余手指、肢体缺失、手指融合、手部绘制拙劣、脚部绘制拙劣、面部绘制拙劣、比例糟糕、比例 grotesque（怪诞）、肢体畸形、手部变异、克隆脸、重复主体、超出画面、被裁剪、低分辨率、模糊、JPEG伪影、颗粒感重、噪点多、过曝、欠曝、塑料皮肤、玩偶感、恐怖谷效应、卡通、动漫、插画、素描、绘画、3D渲染、低质量、最差质量、水印、文字、签名、Logo、错误、多余的腿、多余的手臂、长脖子、面部不对称、斗鸡眼、斜视、服装不一致、发型错误、鞋子不匹配、运动鞋颜色错误、面部特征畸形、比例失衡、过度性感化、浓妆、成人面貌。
+可选增强标签 (Optional enhancement tags)：
+照片级真实、逼真休闲照、智能手机快照氛围、自然日光、微妙胶片颗粒、杰作、最佳质量、超精细、焦点清晰、浅景深、一致的时尚细节、固定的服装发型及面部特征。
+--图二便利店黄昏--------------
+【Character】: 19 year old Asian top tier beauty, sweet and alluring pure desire vibe, deep amber eyes with a captivating water like glint, refined nose, flawless translucent porcelain skin, slightly messy but silky raven black hime cut long hair catching the light, youthful innocence mixed with an unconscious hypnotic charm, high value delicate oriental bone structure. 【Accessories】: Simple thin silver collarbone chain catching a glint of light, a few tiny rings. 【Clothing】: Oversized soft cream white knitted cardigan casually slipping completely off one shoulder to reveal the smooth skin and the camisole, layered over a thin ribbed icy blue fitted camisole outlining soft feminine curves, white pleated micro skirt, sheer white calf high socks, classic low top canvas sneakers in pure white, a white plastic convenience store shopping bag in her other hand. 【Action Pose】: Leaning casually against a Japanese convenience store's (like Lawson or FamilyMart) glass facade at twilight, holding a warm bottled drink with one hand, a playful, slightly shy smile as she gazes directly at the lens with an intimate girlfriend POV snapshot feel, the unbuttoned cardigan fully exposed. 【Facial Expression】: A gentle shy yet slightly teasing smile, relaxed affectionate and natural mood, engaging gaze. 【Environment】: Twilight (blue hour) Japanese convenience store exterior, neon signs and internal store lights creating a soft, colorful glow against the darkening sky, a few automated drink vending machines with colorful illuminated buttons, some soft background streetlights and pedestrians, warm light spilling from the store. 【Style】: Girlfriend perspective candid photo, realistic smartphone casual photo feel, natural twilight and artificial light mix, soft rim lighting on her hair and body, bright and clean Japanese photography aesthetic, subtle blooming highlights from the lights, appealing visual tension, ar 4:7. 【Texture】: Ultra detailed delicate skin with a natural flushed glow, soft and fuzzy knitwear texture contrasting with ribbed cotton and smooth glass, realistic hair physics with stray strands, advanced cinematic light blending of twilight and neon, high end casual portrait aesthetics, photorealistic details. 【Composition】: Eye level medium full shot, character centered, dynamic framing utilizing the window and vending machines, inviting shallow depth of field blurring the background street scene, ar 4:7. Negative Prompt: ugly, deformed, mutated, disfigured, bad anatomy, extra limbs, extra fingers, missing limbs, fused fingers, poorly drawn hands, poorly drawn feet, poorly drawn face, bad proportions, gross proportions, malformed limbs, mutated hands, cloned face, duplicate, out of frame, cropped, low resolution, blurry, jpeg artifacts, grainy, noisy, overexposed, underexposed, plastic skin, doll like, uncanny valley, cartoon, anime, illustration, sketch, painting, 3d render, low quality, worst quality, watermark, text, signature, logo, error, extra legs, extra arms, long neck, asymmetrical face, cross eyed, lazy eye, inconsistent clothing, wrong hair style, mismatched shoes, wrong sneaker color, deformed face features, unbalanced proportions, overly sexualized, heavy makeup, adult look Optional enhancement tags: photorealistic, realistic casual photo, smartphone snapshot vibe, natural daylight, subtle film grain, masterpiece, best quality, ultra detailed, sharp focus, shallow depth of field, consistent fashion details, anchored outfit hair and facial features.
+【角色】：19岁的亚洲顶级美女，散发着甜美迷人且纯欲交织的气息；深邃的琥珀色眼眸泛着如水般 captivating（迷人/摄人心魄）的光泽，鼻梁精致秀气，皮肤无瑕如半透明的瓷器；一头乌黑丝滑的姬发式（Hime cut）长发略显凌乱却质感极佳，在光线下熠熠生辉；青春的纯真与不经意间流露的 hypnotic（催眠般/令人着迷的）魅力完美融合，拥有高价值的精致东方骨相。
+【配饰】：一条简约纤细的银色锁骨链，捕捉着一抹微光，手指上戴着几枚小巧的戒指。
+【服装】：一件宽松的柔奶油白色针织开衫，随意地完全滑落至单侧肩头，露出光滑的肌肤和内搭；内穿一件薄款罗纹冰蓝色修身吊带背心，勾勒出柔和的女性曲线；下身穿着白色百褶超短裙，搭配透薄的白色小腿袜（及膝下），脚踩一双纯白色的经典低帮帆布鞋；另一只手提着一个白色的塑料便利店购物袋。
+【动作姿态】：在黄昏时分，随意地倚靠在一家日本便利店（如 Lawson 或 FamilyMart）的玻璃外墙上；一只手拿着一瓶温热的瓶装饮料；脸上带着顽皮又略带羞涩的微笑，目光直视镜头，营造出一种亲密的女友视角（POV）快照感，未扣扣子的开衫 fully exposed（完全敞开/展露）。
+【面部表情】：温柔羞涩中带着一丝挑逗的微笑，神情放松、充满爱意且自然，眼神引人入胜。
+【环境】：黄昏（蓝色时刻）的日本便利店外景；霓虹灯招牌和店内灯光在渐暗的天空映衬下散发出柔和多彩的光晕；背景中有几台自动饮料贩卖机，按钮色彩斑斓且发光；远处有柔和的路灯和行人，温暖的光线从店内溢出。
+【风格】：女友视角的抓拍照片，具有逼真的智能手机随手拍质感；自然的暮光与人造光源混合，在她的头发和身体上形成柔和的轮廓光；明亮洁净的日式摄影美学，灯光带来微妙的光晕高光，视觉张力引人入胜；宽高比 4:7。
+【质感】：超精细的肌肤细节，透着自然的红润光泽；柔软毛绒的针织品质感与罗纹棉质及光滑的玻璃形成对比；逼真的头发物理效果，可见飘散的碎发；高级的电影级暮光与霓虹灯光融合照明；高端休闲人像美学，照片级真实细节。
+【构图】：视平线高度的中全景镜头，角色居中；利用窗户和自动贩卖机进行动态构图；诱人的浅景深效果使背景街景虚化；宽高比 4:7。
+负面提示词 (Negative Prompt)：
+丑陋、畸形、变异、毁容、解剖结构错误、多余肢体、多余手指、肢体缺失、手指融合、手部绘制拙劣、脚部绘制拙劣、面部绘制拙劣、比例糟糕、比例怪诞、肢体畸形、手部变异、克隆脸、重复主体、超出画面、被裁剪、低分辨率、模糊、JPEG伪影、颗粒感重、噪点多、过曝、欠曝、塑料皮肤、玩偶感、恐怖谷效应、卡通、动漫、插画、素描、绘画、3D渲染、低质量、最差质量、水印、文字、签名、Logo、错误、多余的腿、多余的手臂、长脖子、面部不对称、斗鸡眼、斜视、服装不一致、发型错误、鞋子不匹配、运动鞋颜色错误、面部特征畸形、比例失衡、过度性感化、浓妆、成人面貌。
+可选增强标签 (Optional enhancement tags)：
+照片级真实、逼真休闲照、智能手机快照氛围、自然日光（此处指自然环境光）、微妙胶片颗粒、杰作、最佳质量、超精细、焦点清晰、浅景深、一致的时尚细节、固定的服装发型及面部特征。
+--图三铁道樱落-------------------------
+【Character】: 19 year old Asian top tier beauty with an exquisite balance of innocence and alluring charm (pure desire style). Features an ethereal water-glint in her deep amber eyes. Refined porcelain skin with a luminous, candle-lit quality. Silky raven black hime cut hair, slightly wind-blown, catching cinematic light.
+【Accessories】: A delicate, ultra thin platinum collarbone chain and a single, tiny freshwater pearl ring on her right hand.
+【Clothing】: An oversized, soft cream white fine mohair knit cardigan (worn loosely over her shoulders and upper arms, slightly revealing the inner layers). Layered over a seamless, pale icy blue silk satin camisole that softly drapes to outline her natural curves. A precisely pleated white cotton linen micro skirt. Sheer white cotton calf high socks (subtly translucent). Classic vintage style white canvas sneakers.
+【Action-Pose】: Sitting on a rustic, weathered wooden bench under a cherry blossom tree at a quiet countryside railway station at dusk. She is leaning against the back of the bench, legs crossed casually. The cardigan is draped softly. She is gently holding a vintage camera (like a Leica M3) in her hands, looking up from the viewfinder to meet the camera with a soft, affectionate smile.
+【Facial Expression】: A gentle shy yet slightly teasing smile, relaxed affectionate and natural mood, engaging gaze.
+【Environment】: A rustic countryside railway station at dusk, bathed in the mix of golden hour sunset and soft warm lanterns. Features include a platform with railway tracks and a approaching vintage orange train in the distance, a weathered station sign in Japanese script ("COUNTRY STATION" with local place names), blurred background cherry blossom trees with soft bokeh, and distant warm light from station lamps and train windows. Dappled light filters through the blossoms. The convenience store bag from the previous iteration is placed neatly on the bench beside her.
+【Style】: Cinematic film photography blend with candid girlfriend perspective, realistic 35mm film aesthetic, rich film grain, shallow depth of field, natural blooming highlights from lanterns, dynamic framing utilizing station elements and tracks, appealing visual tension and intimate atmosphere.
+【Texture】: Ultra detailed skin texture (porcelain like quality), fine mohair knit texture, silk satin sheen and softness, cotton linen texture, weathered wood and rusty metal textures, detailed bokeh with cinematic flare, realistic hair physics.
+【Composition】: Character-centered medium shot, eye-level angle, utilizing leading lines from tracks and bench back to the subject, blurred background focus (shallow DoF), incorporating elements for visual balance. ar 16:9.
+Negative Prompt: (Use standard and refined version as before) ugly, deformed, mutated, disfigured, bad anatomy, extra limbs, extra fingers, missing limbs, fused fingers, poorly drawn hands, poorly drawn feet, poorly drawn face, bad proportions, gross proportions, malformed limbs, mutated hands, cloned face, duplicate, out of frame, cropped, low resolution, blurry, jpeg artifacts, grainy, noisy, overexposed, underexposed, plastic skin, doll like, uncanny valley, cartoon, anime, illustration, sketch, painting, 3d render, low quality, worst quality, watermark, text, signature, logo, error, extra legs, extra arms, long neck, asymmetrical face, cross eyed, lazy eye, inconsistent clothing, wrong hair style, mismatched shoes, wrong sneaker color, deformed face features, unbalanced proportions, overly sexualized, heavy makeup, adult look
+Optional enhancement tags: photorealistic, realistic casual photo, smartphone snapshot vibe (integrated cinematic version), natural daylight (golden hour), subtle film grain, masterpiece, best quality, ultra detailed, sharp focus, shallow depth of field, consistent fashion details, anchored outfit hair and facial features, cinematic lighting.
+【角色】：19岁的亚洲顶级美女，纯真与迷人魅力（纯欲风格）达到了精妙的平衡。深邃的琥珀色眼眸中闪烁着空灵的水光。皮肤如瓷器般精致，散发着烛光般的 luminous（发光/明亮）质感。一头乌黑丝滑的姬发式（Hime cut）长发，略显随风飘动，捕捉着电影级的光影。
+【配饰】：一条精致极细的铂金锁骨链，右手戴着一枚小巧的淡水珍珠戒指。
+【服装】：一件宽松的柔奶油白色精细马海毛针织开衫（松散地披在肩头和上臂，微微露出内层）；内搭一件无缝拼接的淡冰蓝色丝绸缎面吊带背心，柔和垂坠以勾勒自然曲线；下身是一条剪裁精准的白色棉麻百褶超短裙；搭配透薄的白色棉质小腿袜（微透）；脚踩一双经典的复古风格白色帆布鞋。
+【动作姿态】：黄昏时分，坐在乡间寂静火车站的一棵樱花树下的古朴风化木长椅上。她慵懒地倚靠在椅背上，双腿随意交叉。开衫轻柔地披在身上。双手轻握一台复古相机（如徕卡 M3），目光从取景器抬起直视镜头，带着温柔深情的微笑。
+【面部表情】：温柔羞涩中带着一丝挑逗的微笑，神情放松、充满爱意且自然，眼神引人入胜。
+【环境】：黄昏时分的乡间古朴火车站，沐浴在金色时刻的夕阳与柔和温暖的路灯交织的光线中。场景包括带有铁轨的站台，远处有一列驶近的复古橙色火车；一个风化的车站站牌，上面写着日文脚本（“乡村车站”及当地地名）；背景是虚化的樱花树，呈现出柔和的散景（bokeh）；车站路灯和火车窗户透出远处的暖光。斑驳的光影透过樱花洒落。前一个版本中的便利店购物袋整齐地放在她身旁的长椅上。
+【风格】：电影摄影与抓拍女友视角的融合，逼真的35mm胶片美学，丰富的胶片颗粒感，浅景深，路灯带来的自然光晕高光，利用车站元素和铁轨进行动态构图，视觉张力诱人且氛围亲密。
+【质感】：超精细的肌肤纹理（瓷器般质感），细腻的马海毛针织质感，丝绸缎面的光泽与柔软，棉麻织物纹理，风化的木材与生锈金属纹理，带有电影级光晕的细节散景，逼真的头发物理效果。
+【构图】：以角色为中心的中景镜头，视平线角度，利用铁轨和椅背作为引导线指向主体，背景虚化聚焦（浅景深），融入元素以实现视觉平衡。宽高比 16:9。
+负面提示词 (Negative Prompt)：
+（沿用之前的标准精炼版）丑陋、畸形、变异、毁容、解剖结构错误、多余肢体、多余手指、肢体缺失、手指融合、手部绘制拙劣、脚部绘制拙劣、面部绘制拙劣、比例糟糕、比例怪诞、肢体畸形、手部变异、克隆脸、重复主体、超出画面、被裁剪、低分辨率、模糊、JPEG伪影、颗粒感重、噪点多、过曝、欠曝、塑料皮肤、玩偶感、恐怖谷效应、卡通、动漫、插画、素描、绘画、3D渲染、低质量、最差质量、水印、文字、签名、Logo、错误、多余的腿、多余的手臂、长脖子、面部不对称、斗鸡眼、斜视、服装不一致、发型错误、鞋子不匹配、运动鞋颜色错误、面部特征畸形、比例失衡、过度性感化、浓妆、成人面貌。
+可选增强标签 (Optional enhancement tags)：
+照片级真实、逼真休闲照、智能手机快照氛围（融合电影版）、自然日光（金色时刻）、微妙胶片颗粒、杰作、最佳质量、超精细、焦点清晰、浅景深、一致的时尚细节、固定的服装发型及面部特征、电影级布光。
+-----
+收到，您的要求非常专业。这种“碎片化、多层级、强调材质与光影对比”的描述方式（Prompt Engineering）是目前顶级 AI 绘画模型（如 Midjourney v6, Flux.1, Stable Diffusion XL）产出高质量、摄影级图像的关键。
+
+以下为您精心创作的 10 组顶级美女图像提示词，每组都设定了独特的氛围与细节：
+
+1. 【雨后京都：冷艳与温润的交织】
+【角色】: 22岁亚洲冷艳御姐，高颅顶，精致的丹凤眼带着一丝疏离感，冷白皮，湿发质感的黑色长直发贴在脸颊。
+
+【服装】: 黑色修身羊绒高领衫，外搭一件半透明的灰色廓形雨衣，下身是深灰色西装阔腿裤，手撑一把透明的长柄雨伞。
+
+【场景/光线】: 下雨后的京都小巷，地面湿滑倒映着路边居酒屋的暖黄色灯笼光；雨滴从伞边缘滑落。
+
+【镜头/风格】: 电影剧照感，冷调背景与角色皮肤暖色对比，极高像素的皮肤毛孔质感，ar 9:16。
+
+2. 【夏日海滨：慵懒的胶片呼吸感】
+【角色】: 20岁元气氧气美女，小麦色健康肌肤，笑起来有甜美的酒窝，阳光下半透明的琥珀色瞳孔，蓬松且带有海盐质感的法式卷发。
+
+【服装】: 姜黄色系带比基尼内搭，外罩一件极其透薄的白色亚麻防晒衫（解开纽扣，随风飘动），颈部佩戴着由碎珍珠和贝壳串成的颈链。
+
+【场景/光线】: 盛夏午后3点的海滩，强烈的自然阳光产生硬朗的阴影，背景是湛蓝的海浪和白色的浪花。
+
+【镜头/风格】: 90年代复古胶片颗粒感，手持相机随性抓拍，局部过曝的高光，极具视觉冲击力的生命力感。
+
+3. 【午夜巴黎：丝绒般的魅惑】
+【角色】: 24岁混血感顶级美女，深邃的眼窝，带有攻击性的美艳，复古红唇，波浪大卷发在锁骨处散开。
+
+【服装】: 深墨绿色丝绒吊带长裙，露背设计，裙摆在行走间摆动；肩头搭着一件黑色人造皮草。
+
+【场景/光线】: 巴黎街头深夜，背景是模糊的埃菲尔铁塔远景，路灯呈现迷人的散景（Bokeh），角色被车灯侧照，勾勒出金色的身体轮廓。
+
+【镜头/风格】: 时尚杂志大片感，低光摄影，细腻的丝绒材质与皮肤光泽对比，极度优雅且高级。
+
+4. 【早春书屋：知识分子的知性美】
+【角色】: 21岁清冷系才女，戴着极细的金丝边框架眼镜，书卷气十足，皮肤细腻得能看见细微的血管，低马尾。
+
+【服装】: 浅灰色粗花呢外套，内搭纯白立领衬衫，手捧一本厚重的精装旧书。
+
+【场景/光线】: 充满老旧木质气息的书店角落，清晨的阳光透过高窗斜射下来（丁达尔效应），空气中漂浮着微小的尘埃。
+
+【镜头/风格】: 柔焦镜头，明调（High-key）摄影，强调木纹与布料纤维的纹理，极致的宁静感。
+
+5. 【赛博雨夜：霓虹下的异类美】
+【角色】: 18岁未来感少女，银灰色短发，瞳孔内嵌有微弱发光的科技纹路，面部贴着一小片极细的金属散热贴片。
+
+【服装】: 黑色高科技面料机能服，多口袋设计，局部有亮紫色的冷光条装饰。
+
+【场景/光线】: 香港风格的赛博朋克街道，布满霓虹招牌（粉、紫、青色），地面水洼反射着混乱的灯光。
+
+【镜头/风格】: 广角镜头，仰拍视角增加压迫感，HDR高动态范围，极细腻的金属质感与雨滴撞击效果。
+
+6. 【落日荒野：波希米亚的自由之魂】
+【角色】: 23岁野性美女，不修边幅的野生眉，鼻梁有少许俏皮的雀斑，随性的编发中夹杂着细细的羽毛装饰。
+
+【服装】: 钩针编织的镂空背心，民族风印花长裙，腰间挂着复古皮质腰包，手拎一双棕色麂皮短靴。
+
+【场景/光线】: 美国的纪念碑谷夕阳下，金色的“黄金时刻”光线，远山被染成深橙色，风沙中带着轻微的雾霭。
+
+【镜头/风格】: 长焦镜头压缩空间，背景极度虚化，温暖的橙红影调，强调皮肤的质感与毛衣的粗糙感。
+
+7. 【私密居家：清晨的慵懒瞬间】
+【角色】: 19岁纯欲风少女，刚睡醒略显迷离的眼神，红润的嘴唇，白皙的双腿。
+
+【服装】: 宽大的男士条纹衬衫（仅扣中间两颗扣子），下身失踪风格，隐约露出白色蕾丝内衣边缘。
+
+【场景/光线】: 极简风格的卧室，纯白色的床单，大落地窗前，晨光洁白干净，照在白皙的皮肤上产生通透的“呼吸感”。
+
+【镜头/风格】: 佳能50mm f/1.2定焦镜头感，极浅景深，极其干净的构图，像是一场私密的对话，ar 4:5。
+
+8. 【雪地精灵：纯白中的那一抹红】
+【角色】: 20岁精致少女，鼻尖和耳朵冻得微微发红，长睫毛上挂着晶莹的雪花，眼神清澈。
+
+【服装】: 极其厚实的红色纯羊毛围巾裹住半张脸，穿着白色的羽绒服，戴着毛茸茸的白色耳罩。
+
+【场景/光线】: 北海道漫天大雪的森林边缘，光线柔和散乱，背景是深色的针叶林与纯白的积雪对比。
+
+【镜头/风格】: 微距特写面部，强调睫毛上的雪花细节和皮肤的红润，极其纯净的色彩美学。
+
+9. 【旧上海往事：旗袍下的东方神韵】
+【角色】: 25岁古典韵味美女，柳叶眉，复古推波浪发型（Finger Waves），眼神中透着阅历与故事感。
+
+【服装】: 深紫色真丝旗袍，点缀暗花，高开叉露出精致的丝袜线条，手执一把檀香扇。
+
+【场景/光线】: 复古公馆内，留声机在转动，光线昏暗，只有一盏复古台灯投射出暖绿色的光线在墙上。
+
+【镜头/风格】: 仿胶片摄影，低饱和度，浓郁的暗部细节，强调真丝的流光溢彩与木质家具的厚重，ar 3:4。
+
+10. 【运动活力：网球场上的流汗之美】
+【角色】: 21岁活力女神，马尾辫高高甩起，额头带着晶莹的汗珠，运动后的面部红润，充满力量感的肌肉线条。
+
+【服装】: 紧身白色运动背心，浅绿色的网球褶皱裙，手腕戴着吸汗护腕，手握网球拍。
+
+【场景/光线】: 露天网球场，背景是绿色的防护网和蓝天，阳光明媚，侧逆光在她的汗珠上形成闪烁的光点。
+
+【镜头/风格】: 高速快门抓拍（Sports Action），动态捕捉，极高的锐度，强调皮肤的湿润感与服装的弹性纹理。
+
+
